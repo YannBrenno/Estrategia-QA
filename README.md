@@ -248,7 +248,7 @@
 
 ## 15. Próximos passos (curto prazo)
 
-1. Preencher metas de KPI (valores X/Y/Z)
+1. Preencher metas de KPI (valores X/Y/Z/A)
 2. Mapear 10 requisitos críticos e criar 1 smoke test para cada
 3. Configurar CI para upload de resultados no Xray (exemplo de script)
 
