@@ -251,11 +251,11 @@
 1. Preencher metas de KPI (valores X/Y/Z/A)
 2. Mapear 10 requisitos críticos e criar 1 smoke test para cada
 3. Configurar CI para upload de resultados no Xray (exemplo de script)
-
 ---
 
 ## Anexos
 
 * Exemplos de scripts de upload Xray (placeholder)
 * Link para templates de casos de teste
-
+https://yannbrenno.atlassian.net/jira/software/projects/PROJ/boards/2
+https://yannbrenno.atlassian.net/wiki/spaces/~638502298fd2d2d5f12f9428/overview
